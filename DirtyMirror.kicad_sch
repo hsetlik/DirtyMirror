@@ -2921,7 +2921,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 221.488) (xy 49.53 227.076)
+			(xy 49.53 221.742) (xy 49.53 227.076)
 		)
 		(stroke
 			(width 0)
@@ -3801,7 +3801,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 212.852) (xy 49.53 213.868)
+			(xy 49.53 213.106) (xy 49.53 214.122)
 		)
 		(stroke
 			(width 0)
@@ -5925,15 +5925,15 @@
 		(fields_autoplaced yes)
 		(uuid "118cd2c6-bba0-4233-a2d7-b1d679181273")
 		(property "Reference" "R116"
-			(at 211.582 68.072 90)
+			(at 211.582 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100k"
-			(at 211.582 70.612 90)
+		(property "Value" "56k"
+			(at 211.582 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,15 +6130,15 @@
 		(fields_autoplaced yes)
 		(uuid "1951f120-bf41-4258-93ea-3fdce49bb264")
 		(property "Reference" "R113"
-			(at 211.582 51.054 90)
+			(at 211.582 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100k"
-			(at 211.582 53.594 90)
+		(property "Value" "56k"
+			(at 211.582 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6993,7 +6993,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "51k"
 			(at 211.582 62.23 90)
 			(effects
 				(font
@@ -8580,7 +8580,7 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 49.53 212.852 0)
+		(at 49.53 213.106 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8589,7 +8589,7 @@
 		(fields_autoplaced yes)
 		(uuid "633039c4-8b17-4ea6-973f-571ddd266fde")
 		(property "Reference" "#PWR0104"
-			(at 49.53 216.662 0)
+			(at 49.53 216.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8598,7 +8598,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 49.53 208.026 0)
+			(at 49.53 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +8606,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 212.852 0)
+			(at 49.53 213.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8615,7 +8615,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 212.852 0)
+			(at 49.53 213.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8624,7 +8624,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 49.53 212.852 0)
+			(at 49.53 213.106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8748,7 +8748,7 @@
 				)
 			)
 		)
-		(property "Value" "180k"
+		(property "Value" "100k"
 			(at 37.338 54.61 90)
 			(effects
 				(font
@@ -9139,7 +9139,7 @@
 				)
 			)
 		)
-		(property "Value" "33k"
+		(property "Value" "51k"
 			(at 210.058 101.6 90)
 			(effects
 				(font
@@ -11887,7 +11887,7 @@
 				)
 			)
 		)
-		(property "Value" "33k"
+		(property "Value" "51k"
 			(at 210.058 83.82 90)
 			(effects
 				(font
@@ -12298,7 +12298,7 @@
 				)
 			)
 		)
-		(property "Value" "820k"
+		(property "Value" "560k"
 			(at 54.102 43.18 90)
 			(effects
 				(font
@@ -12638,7 +12638,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 49.53 217.678 0)
+		(at 49.53 217.932 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12647,7 +12647,7 @@
 		(fields_autoplaced yes)
 		(uuid "f766e555-b365-469b-bb67-69a499371006")
 		(property "Reference" "R101"
-			(at 52.07 216.4079 0)
+			(at 52.07 216.6619 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12656,7 +12656,7 @@
 			)
 		)
 		(property "Value" "56k"
-			(at 52.07 218.9479 0)
+			(at 52.07 219.2019 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12665,7 +12665,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 50.546 217.932 90)
+			(at 50.546 218.186 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12674,7 +12674,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 217.678 0)
+			(at 49.53 217.932 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12683,7 +12683,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 49.53 217.678 0)
+			(at 49.53 217.932 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12717,15 +12717,15 @@
 		(fields_autoplaced yes)
 		(uuid "fd358520-8861-4c32-a0f7-a7b7acb64f5d")
 		(property "Reference" "R117"
-			(at 230.124 51.054 90)
+			(at 230.124 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100k"
-			(at 230.124 53.594 90)
+		(property "Value" "51k"
+			(at 230.124 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
