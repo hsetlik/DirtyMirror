@@ -2435,6 +2435,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.554 194.056) (xy 242.57 194.056)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "019a3bb6-b87f-4b1a-b3f5-8e40721f0b82")
+	)
+	(wire
+		(pts
 			(xy 107.95 216.408) (xy 107.95 217.678)
 		)
 		(stroke
@@ -3575,6 +3585,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.554 192.024) (xy 241.554 194.056)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903d2280-065e-42fc-9378-6cf29fc407c5")
+	)
+	(wire
+		(pts
 			(xy 206.502 56.642) (xy 207.772 56.642)
 		)
 		(stroke
@@ -4707,6 +4727,19 @@
 		)
 		(uuid "2c1e3739-0828-470d-9bac-955ed1d0c983")
 	)
+	(text "Test Points"
+		(exclude_from_sim no)
+		(at 188.468 163.83 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "30aeb7c9-c268-43b7-8e47-454dbc4303ea")
+	)
 	(text "Header  & LED"
 		(exclude_from_sim no)
 		(at 160.274 163.83 0)
@@ -4879,6 +4912,17 @@
 			(justify right bottom)
 		)
 		(uuid "3a29a463-f92a-4d30-8fb0-0fb34a052208")
+	)
+	(label "vSkew"
+		(at 242.57 194.056 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45a18e49-83d8-4761-a767-3b66c0cf4c7a")
 	)
 	(label "LoRect"
 		(at 230.378 177.038 0)
@@ -6043,6 +6087,73 @@
 			(project "DirtyMirror"
 				(path "/46809a99-6cea-45df-9493-947f7ec228cb"
 					(reference "R116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 241.554 192.024 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "127c9195-a03c-493d-91e1-482776ab6e03")
+		(property "Reference" "TP112"
+			(at 243.84 187.4519 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SKEW"
+			(at 243.84 189.9919 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm_VAL"
+			(at 246.634 192.024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 246.634 192.024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 241.554 192.024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b7b464f-d8ee-461e-9e9d-505f91acf3d3")
+		)
+		(instances
+			(project "DirtyMirror"
+				(path "/46809a99-6cea-45df-9493-947f7ec228cb"
+					(reference "TP112")
 					(unit 1)
 				)
 			)
