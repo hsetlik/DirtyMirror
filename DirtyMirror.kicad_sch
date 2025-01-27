@@ -5932,7 +5932,7 @@
 				)
 			)
 		)
-		(property "Value" "5k6"
+		(property "Value" "56k"
 			(at 211.582 69.85 90)
 			(effects
 				(font
@@ -6137,7 +6137,7 @@
 				)
 			)
 		)
-		(property "Value" "5k6"
+		(property "Value" "56k"
 			(at 211.582 53.34 90)
 			(effects
 				(font
@@ -6993,7 +6993,7 @@
 				)
 			)
 		)
-		(property "Value" "5k1"
+		(property "Value" "51k"
 			(at 211.582 62.23 90)
 			(effects
 				(font
