@@ -5857,15 +5857,15 @@
 		(fields_autoplaced yes)
 		(uuid "117a758b-2db5-478b-b837-80d07424aad2")
 		(property "Reference" "R134"
-			(at 259.334 80.518 90)
+			(at 259.334 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4k7"
-			(at 259.334 83.058 90)
+		(property "Value" "47k"
+			(at 259.334 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7129,7 +7129,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "10k"
 			(at 64.77 84.8359 0)
 			(effects
 				(font
@@ -8320,15 +8320,15 @@
 		(fields_autoplaced yes)
 		(uuid "5f1ddcb2-db62-4a16-a5eb-393bf8e45275")
 		(property "Reference" "R132"
-			(at 259.08 61.468 90)
+			(at 259.08 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4k7"
-			(at 259.08 64.008 90)
+		(property "Value" "47k"
+			(at 259.08 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10135,7 +10135,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kB"
+		(property "Value" "100kB"
 			(at 263.398 74.6761 0)
 			(effects
 				(font
@@ -11094,7 +11094,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 60.706 73.4061 0)
 			(effects
 				(font
