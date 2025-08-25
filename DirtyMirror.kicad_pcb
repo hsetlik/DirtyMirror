@@ -667,7 +667,7 @@
 				)
 			)
 		)
-		(property "Value" "10kB"
+		(property "Value" "100kB"
 			(at 4.9 -24.3 180)
 			(layer "F.Fab")
 			(uuid "0f5ef397-daf5-47ca-bc5f-652ccb007bbc")
@@ -1299,7 +1299,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100kB"
 			(at 4.9 -24.3 180)
 			(layer "F.Fab")
 			(uuid "5bab2a66-6fcd-4a2d-b590-596a1e625b34")
@@ -1853,7 +1853,7 @@
 				)
 			)
 		)
-		(property "Value" "10kB"
+		(property "Value" "100kB"
 			(at 4.9 -24.3 180)
 			(layer "F.Fab")
 			(uuid "d85b9b3b-0058-4a44-9048-b578f2fc8fa7")
@@ -2275,7 +2275,7 @@
 				)
 			)
 		)
-		(property "Value" "10kB"
+		(property "Value" "100kB"
 			(at 4.9 -24.3 180)
 			(layer "F.Fab")
 			(uuid "09189612-725a-4d49-9499-40f7b41a4d25")
@@ -3084,7 +3084,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10n"
 			(at 0 -1.679999 90)
 			(layer "B.Fab")
 			(uuid "74306690-bf7f-4a2d-940f-d4e3c91706c1")
@@ -3523,7 +3523,7 @@
 			)
 		)
 		(property "Value" "51k"
-			(at 0 -1.65 360)
+			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "359346f0-91e1-4b07-86ee-f83fab1c42fe")
 			(effects
@@ -4508,7 +4508,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "33k"
+		(property "Value" "39k"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
 			(uuid "b9f4f849-792f-4e7e-a19e-e945f4a61f5b")
@@ -5521,7 +5521,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1k8"
+		(property "Value" "12k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "5f59290d-0810-480a-a412-91fae8a6feac")
@@ -5877,7 +5877,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "47k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "ac65cd81-9c05-45cf-882a-3a4f7f07f948")
@@ -11208,7 +11208,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "47k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "4fcf16db-8be1-4c76-b8e8-33f5a270e75d")
@@ -14970,7 +14970,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2k2"
+		(property "Value" "10k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "c660fafc-6333-4e0d-b3c4-215145d56fe0")
@@ -16313,7 +16313,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 0 -1.65 360)
+			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "2c4274d8-c3e3-454e-8b5d-6dd9b0f95734")
 			(effects
